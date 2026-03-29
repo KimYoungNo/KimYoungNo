@@ -41,7 +41,7 @@
 ![Adobe After Effects](https://img.shields.io/badge/-After_Effects-101010?style=flat&label=Ae&labelColor=9999FF)&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-101010?style=flat&label=Pr&labelColor=9999FF)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-101010?style=flat&label=Ai&labelColor=FF9A00)&nbsp;
-![Ableton Live](https://img.shields.io/badge/-Ableton_Live-101010?style=flat&label=e&labelColor=gray)&nbsp;
+![Ableton Live](https://img.shields.io/badge/-Ableton_Live-101010?style=flat&label=≡&labelColor=gray)&nbsp;
 </br>
 ![AutoCAAD](https://img.shields.io/badge/-AutoCad-101010?style=flat&logo=autocad&logoColor=white&label=&labelColor=E51050)&nbsp;
 ![Solidworks](https://img.shields.io/badge/-Solidworks-101010?style=flat&logo=dassaultsystemes&logoColor=white&label=&labelColor=DA291C)&nbsp;
