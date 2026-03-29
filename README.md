@@ -14,7 +14,10 @@
 | **Languages** | ![Python][python] ![Cython][cython] ![Bash][bash] </br> ![C][c] ![C++][cpp] ![SystemC][systemc] ![Verilog][verilog] |
 | **Embeded & FPGA** | ![Arduino][arduino] ![RaspberryPi][rpi] ![Vivado][vivado] ![Vitis HLS][vitis] |
 | **Build & DevOps** | ![Linux][linux] ![Debian][debian] ![Ubuntu][ubuntu] ![Proxmox][proxmox] ![LXC][lxc] </br> ![CMake][cmake] ![Make][make] ![Git][git] ![Meson][meson] | 
-| **Miscellaneous** | ![Adobe After Effects][ae] ![Adobe Premiere Pro][pr] ![Adobe Illustrator][ai] ![Ableton Live][ableton] </br> ![AutoCAD][autocad] ![Solidworks][solidworks] ![Blender][blender] </br> ![Markdown][md] ![FFmpeg][ffmpeg] ![yt-dlp][ytdlp] ![OBS][obs] |
+| **Visual Production** | ![Adobe After Effects][ae] ![Adobe Premiere Pro][pr] ![Adobe Illustrator][ai] |
+| **Audio Production** | ![Ableton Live][ableton] ![Melodyne][melodyne] |
+| **3D Design** | ![AutoCAD][autocad] ![Solidworks][solidworks] ![Blender][blender] |
+| **Miscellaneous** | ![Markdown][md] ![FFmpeg][ffmpeg] ![yt-dlp][ytdlp] ![OBS][obs] |
 
 
 [python]: https://img.shields.io/badge/-Python-101010?style=flat&logo=python&logoColor=white&label=&labelColor=blue
@@ -43,7 +46,10 @@
 [ae]: https://img.shields.io/badge/-After_Effects-101010?style=flat&label=Ae&labelColor=9999FF
 [pr]: https://img.shields.io/badge/-Premiere_Pro-101010?style=flat&label=Pr&labelColor=9999FF
 [ai]: https://img.shields.io/badge/-Illustrator-101010?style=flat&label=Ai&labelColor=FF9A00
+
 [ableton]: https://img.shields.io/badge/-Ableton_Live-101010?style=flat&logo=/e/&logoColor=white&label=&labelColor=gray
+[melodyne]: https://img.shields.io/badge/-Melodyne-101010?style=flat&label=Celemony&labelColor=orange
+
 [autocad]: https://img.shields.io/badge/-AutoCad-101010?style=flat&logo=autocad&logoColor=white&label=&labelColor=E51050
 [solidworks]: https://img.shields.io/badge/-Solidworks-101010?style=flat&logo=dassaultsystemes&logoColor=white&label=&labelColor=DA291C
 [blender]: https://img.shields.io/badge/-Blender-101010.svg?style=flat&logo=blender&logoColor=white&label=&labelColor=F5792A
