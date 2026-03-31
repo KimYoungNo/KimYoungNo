@@ -1,11 +1,15 @@
 <div align="center">
   
-# Hi there, I'm Kim YoungNo👋
+# Hi there, I'm Kim YoungNo 👋  
+[![Email][email]](mailto:kimyoungno@unist.ac.kr)
 
 </div>
 
 > [!TIP]
-> Welcome to my github page!
+> Welcome to my GitHub page!  
+> Interested in **Spatial Architecture**, **Low Level Programming**, **HW-SW Co-design** and **AI acceleration**.
+
+[email]: https://img.shields.io/badge/Email-kimyoungno%40unist.ac.kr-darkgreen?style=for-the-badge&logo=gmail&logoColor=white
 
 
 ## Education  
@@ -18,26 +22,28 @@
 
 ## Career  
 <sub>2021</sub>  
-***UNIST A.I. 4.0 Studio*** &nbsp; / &nbsp; Main mentor  
-***UNIST Club to Club*** &nbsp; / &nbsp; Main mentor  
+***UNIST A.I. 4.0 Studio*** &nbsp; / &nbsp; Lead mentor  
+***UNIST Club to Club*** &nbsp; / &nbsp; Lead mentor  
 
 <sub>2022</sub>  
-***STAR MOOC*** &nbsp; / &nbsp; Intro & Outro motion graphics, English-Korean translation, Subtitle   
-***Ulju THE DREAM CAMPUS*** &nbsp; / &nbsp; Main mentor
+***STAR MOOC*** &nbsp; / &nbsp; Intro & outro motion graphics, English-Korean translation, Subtitling  
+***Ulju THE DREAM CAMPUS*** &nbsp; / &nbsp; Lead mentor
 
 <sub>2023-2024</sub>  
-***SDH English Academy*** &nbsp; / &nbsp; TA, Document automation tool developer, Computer equipments management  
+***SDH English Academy*** &nbsp; / &nbsp; TA, Document automation tool developer, Computer equipment management  
 
 <sub>2025</sub>  
 ***ICCL Intern** (UNIST)* &nbsp; / &nbsp; Undergraduate research assistant
 
 <sub>2026</sub>  
 ***Supercomputing Youth Camp** (UNIST)* &nbsp; / &nbsp; TA  
-***Tensor Processor Design for Image Recognition** (UNIST, EEE426)* &nbsp; / &nbsp; Main TA  
+***Tensor Processor Design for Image Recognition** (UNIST, EEE426)* &nbsp; / &nbsp; Lead TA  
 
 
 ## Research
 <sub>2026</sub>  
+***FlowSpec: A Flexible and Scalable Simulation Framework for Coarse-Grained Spatial Architectures***  
+Co-first author (equal contribution), accepted to *CGRA4HPCA'26 Workshop @ IPDPS 2026*
 
 
 ## Skills & Tools  
