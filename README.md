@@ -30,14 +30,17 @@
 ***Ulju THE DREAM CAMPUS*** &nbsp; / &nbsp; Lead mentor
 
 <sub>2023-2024</sub>  
-***SDH English Academy*** &nbsp; / &nbsp; TA, Document automation tool developer, Computer equipment management  
+***SDH English Academy*** &nbsp; / &nbsp; TA, [Document automation tool developer][hwp], Computer equipment management  
 
 <sub>2025</sub>  
 ***ICCL Intern** (UNIST)* &nbsp; / &nbsp; Undergraduate research assistant
 
 <sub>2026</sub>  
 ***Supercomputing Youth Camp** (UNIST)* &nbsp; / &nbsp; TA  
-***Tensor Processor Design for Image Recognition** (UNIST, EEE426)* &nbsp; / &nbsp; Lead TA  
+***Tensor Processor Design for Image Recognition** (UNIST, [EEE426][pol26])* &nbsp; / &nbsp; Lead TA  
+
+[hwp]: https://github.com/KimYoungNo/HwpManager
+[pol26]: https://github.com/KimYoungNo/UNIST_EEE426_POL26
 
 
 ## Research
