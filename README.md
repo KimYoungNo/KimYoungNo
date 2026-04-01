@@ -17,7 +17,7 @@
 ***Chungnam Samsung Academy** (CNSA)* &nbsp; / &nbsp; Advanced, Engineering & Natural Sciences Diploma
 
 <sub>2021-Present</sub>  
-***Ulsan National Institute of Science and Technology** (UNIST)* &nbsp; / &nbsp; Dept. of Electrical Engineering
+***Ulsan National Institute of Science and Technology** (UNIST)* &nbsp; / &nbsp; Dept. of Electrical Engineering, Undergraduate
 
 
 ## Career  
