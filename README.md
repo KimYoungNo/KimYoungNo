@@ -46,7 +46,7 @@
 ## Research
 <sub>2026</sub>  
 ***FlowSpec: A Flexible and Scalable Simulation Framework for Coarse-Grained Spatial Architectures***  
-Co-first author (equal contribution), accepted to *IPDPS'26 CGRA4HPCA Workshop @ IPDPSW 2026*
+Co-first author (equal contribution), accepted to *CGRA4HPC Workshop @ IPDPSW 2026*
 
 
 ## Skills & Tools  
