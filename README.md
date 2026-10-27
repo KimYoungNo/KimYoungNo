@@ -48,7 +48,7 @@
 ***[FlowSpec: A Flexible and Scalable Simulation Framework for Coarse-Grained Spatial Architectures][flowspec]***  
 Co-first author (equal contribution), accepted to *CGRA4HPC Workshop @ IPDPSW 2026*
 
-[flowspec]: https://doi.ieeecomputersociety.org/10.1109/IPDPSW71298.2026.00103
+[flowspec]: https://doi.org/10.1109/IPDPSW71298.2026.00103
 
 
 ## Skills & Tools  
