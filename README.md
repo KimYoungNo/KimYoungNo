@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Kim YoungNo 👋  
+# Hi there, I'm Youngno Kim 👋  
 [![Email][email]](mailto:kimyoungno@unist.ac.kr)
 
 </div>
